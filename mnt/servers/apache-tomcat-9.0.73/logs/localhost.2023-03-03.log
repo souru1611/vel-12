@@ -1,0 +1,5 @@
+03-Mar-2023 11:12:06.277 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+03-Mar-2023 11:12:06.278 INFO [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+03-Mar-2023 11:12:06.280 INFO [main] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@548e6d58')
+03-Mar-2023 11:13:33.229 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+03-Mar-2023 12:12:35.828 INFO [Catalina-utility-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'gameoflife'
